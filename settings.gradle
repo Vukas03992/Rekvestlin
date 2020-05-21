@@ -1,0 +1,2 @@
+include ':app', ':rekvestlin-core'
+rootProject.name='Example'
